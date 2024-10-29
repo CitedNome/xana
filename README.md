@@ -1,6 +1,7 @@
 # [XANA](https://sites.google.com/view/xana-project/home-page) OFFICIAL REPOSITORY
 
 Repository of the source code of virtual home assistant and chat-bot **XANA**.
+The website will be up soon.
 ***
 ### Meet Xana, the passive-aggressive AI
 
